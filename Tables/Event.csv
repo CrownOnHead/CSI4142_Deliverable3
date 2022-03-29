@@ -1,0 +1,940 @@
+EventKey,SurrogateKey,Disaster_Type,Disaster_Subtype,Total_Deaths,Disaster_Subgroup,Country,Start_Year,End_Year
+1,0,No Event,,,,None,1800-01-01,1800-01-01
+2,8943,Storm,Convective storm,79,Meteorological,Bangladesh,2005-01-01,2005-01-01
+3,9325,Flood,Riverine flood,9,Hydrological,United States,2005-01-01,2005-01-01
+4,9329,Flood,Riverine flood,28,Hydrological,United States,2005-01-01,2005-01-01
+5,9339,Storm,Convective storm,20,Meteorological,United States,2005-01-01,2005-01-01
+6,9340,Storm,,8,Meteorological,Dem. Rep. Congo,2005-01-01,2005-01-01
+7,9371,Epidemic,Bacterial disease,34,Biological,Dem. Rep. Congo,2005-01-01,2005-01-01
+8,9430,Flood,Flash flood,13,Hydrological,Bangladesh,2005-01-01,2005-01-01
+9,9479,Flood,Flash flood,19,Hydrological,Bangladesh,2005-01-01,2005-01-01
+10,9480,Flood,Riverine flood,23,Hydrological,Bangladesh,2005-01-01,2005-01-01
+11,9481,Storm,Tropical cyclone,24,Meteorological,Bangladesh,2005-01-01,2005-01-01
+12,9482,Extreme temperature,Heat wave,,Meteorological,Bangladesh,2005-01-01,2005-01-01
+13,9483,Extreme temperature,Severe winter conditions,100,Meteorological,Bangladesh,2005-01-01,2006-01-01
+14,9484,Storm,,10,Meteorological,Bangladesh,2005-01-01,2005-01-01
+15,9485,Storm,,2,Meteorological,Bangladesh,2005-01-01,2005-01-01
+16,9486,Storm,,11,Meteorological,Bangladesh,2005-01-01,2005-01-01
+17,9487,Storm,,35,Meteorological,Bangladesh,2005-01-01,2005-01-01
+18,9488,Storm,,16,Meteorological,Bangladesh,2005-01-01,2005-01-01
+19,9498,Flood,Riverine flood,,Hydrological,Canada,2005-01-01,2005-01-01
+20,9499,Flood,Riverine flood,4,Hydrological,Canada,2005-01-01,2005-01-01
+21,9500,Wildfire,Forest fire,,Climatological,Canada,2005-01-01,2005-01-01
+22,9501,Wildfire,Forest fire,,Climatological,Canada,2005-01-01,2005-01-01
+23,9502,Storm,,,Meteorological,Canada,2005-01-01,2005-01-01
+24,9620,Flood,Riverine flood,,Hydrological,Canada,2006-01-01,2006-01-01
+25,9625,Storm,,4,Meteorological,Bangladesh,2006-01-01,2006-01-01
+26,9639,Storm,Tropical cyclone,115,Meteorological,Bangladesh,2006-01-01,2006-01-01
+27,9640,Storm,Tropical cyclone,22,Meteorological,Bangladesh,2006-01-01,2006-01-01
+28,9673,Storm,Convective storm,4,Meteorological,Bangladesh,2006-01-01,2006-01-01
+29,9674,Flood,Riverine flood,,Hydrological,Bangladesh,2006-01-01,2006-01-01
+30,9675,Flood,Riverine flood,,Hydrological,Bangladesh,2006-01-01,2006-01-01
+31,9676,Storm,Tropical cyclone,9,Meteorological,Bangladesh,2006-01-01,2006-01-01
+32,9683,Flood,Riverine flood,,Hydrological,Canada,2006-01-01,2006-01-01
+33,9684,Flood,Riverine flood,,Hydrological,Canada,2006-01-01,2006-01-01
+34,9685,Flood,Riverine flood,,Hydrological,Canada,2006-01-01,2006-01-01
+35,9686,Flood,Riverine flood,1,Hydrological,Canada,2006-01-01,2006-01-01
+36,9778,Storm,Convective storm,2,Meteorological,Canada,2007-01-01,2007-01-01
+37,9787,Extreme temperature,Severe winter conditions,130,Meteorological,Bangladesh,2007-01-01,2007-01-01
+38,9805,Flood,Riverine flood,51,Hydrological,Nepal,2005-01-01,2005-01-01
+39,9809,Storm,Tropical cyclone,75,Meteorological,Vietnam,2005-01-01,2005-01-01
+40,9813,Storm,Tropical cyclone,1833,Meteorological,United States,2005-01-01,2005-01-01
+41,9815,Flood,Riverine flood,3,Hydrological,United States,2005-01-01,2006-01-01
+42,9819,Storm,Tropical cyclone,4,Meteorological,United States,2005-01-01,2005-01-01
+43,9829,Flood,Riverine flood,30,Hydrological,Mexico,2005-01-01,2005-01-01
+44,9843,Flood,Riverine flood,69,Hydrological,Vietnam,2005-01-01,2005-01-01
+45,9854,Storm,Tropical cyclone,36,Meteorological,Mexico,2005-01-01,2005-01-01
+46,9855,Storm,Tropical cyclone,7,Meteorological,Mexico,2005-01-01,2005-01-01
+47,9856,Flood,,8,Hydrological,Mexico,2005-01-01,2005-01-01
+48,9861,Flood,Flash flood,,Hydrological,United States,2005-01-01,2005-01-01
+49,9862,Flood,Riverine flood,11,Hydrological,United States,2005-01-01,2005-01-01
+50,9863,Flood,Riverine flood,,Hydrological,Vietnam,2005-01-01,2005-01-01
+51,9864,Storm,Tropical cyclone,8,Meteorological,Vietnam,2005-01-01,2005-01-01
+52,9865,Storm,Tropical cyclone,2,Meteorological,Mexico,2005-01-01,2005-01-01
+53,9870,Storm,Convective storm,,Meteorological,United States,2005-01-01,2005-01-01
+54,9871,Storm,Tropical cyclone,10,Meteorological,United States,2005-01-01,2005-01-01
+55,9872,Storm,,13,Meteorological,Vietnam,2005-01-01,2005-01-01
+56,9895,Epidemic,Bacterial disease,29,Biological,Liberia,2005-01-01,2005-01-01
+57,9901,Flood,Riverine flood,3,Hydrological,Mexico,2005-01-01,2005-01-01
+58,9902,Storm,Tropical cyclone,2,Meteorological,Mexico,2005-01-01,2005-01-01
+59,9909,Epidemic,Viral disease,,Biological,Mauritius,2006-01-01,2006-01-01
+60,9918,Flood,Riverine flood,,Hydrological,Nepal,2005-01-01,2005-01-01
+61,9976,Storm,Convective storm,,Meteorological,United States,2005-01-01,2005-01-01
+62,9977,Storm,Convective storm,10,Meteorological,United States,2005-01-01,2005-01-01
+63,9978,Flood,Riverine flood,2,Hydrological,United States,2005-01-01,2005-01-01
+64,9979,Storm,Tropical cyclone,5,Meteorological,United States,2005-01-01,2005-01-01
+65,9980,Extreme temperature,Heat wave,33,Meteorological,United States,2005-01-01,2005-01-01
+66,9981,Wildfire,Forest fire,5,Climatological,United States,2005-01-01,2006-01-01
+67,9985,Flood,Flash flood,67,Hydrological,Vietnam,2005-01-01,2005-01-01
+68,9986,Flood,Riverine flood,39,Hydrological,Vietnam,2005-01-01,2005-01-01
+69,9987,Flood,Riverine flood,17,Hydrological,Vietnam,2005-01-01,2005-01-01
+70,9988,Storm,Tropical cyclone,20,Meteorological,Vietnam,2005-01-01,2005-01-01
+71,9989,Drought,Drought,,Climatological,Vietnam,2005-01-01,2005-01-01
+72,9990,Epidemic,,16,Biological,Vietnam,2005-01-01,2006-01-01
+73,9996,Earthquake,Ground movement,6,Geophysical,Dem. Rep. Congo,2005-01-01,2005-01-01
+74,9997,Flood,Riverine flood,1,Hydrological,United States,2006-01-01,2006-01-01
+75,9998,Flood,Riverine flood,7,Hydrological,United States,2006-01-01,2006-01-01
+76,10000,Storm,Tropical cyclone,7,Meteorological,Mexico,2006-01-01,2006-01-01
+77,10001,Storm,Tropical cyclone,4,Meteorological,Mexico,2006-01-01,2006-01-01
+78,10006,Storm,Tropical cyclone,17,Meteorological,Vietnam,2006-01-01,2006-01-01
+79,10007,Earthquake,Ground movement,,Geophysical,United States,2006-01-01,2006-01-01
+80,10034,Flood,Riverine flood,11,Hydrological,United States,2006-01-01,2006-01-01
+81,10035,Flood,Flash flood,12,Hydrological,Vietnam,2006-01-01,2006-01-01
+82,10036,Flood,Riverine flood,42,Hydrological,Vietnam,2006-01-01,2006-01-01
+83,10037,Flood,Riverine flood,1,Hydrological,Dem. Rep. Congo,2006-01-01,2006-01-01
+84,10048,Storm,Convective storm,28,Meteorological,United States,2006-01-01,2006-01-01
+85,10049,Storm,Convective storm,12,Meteorological,United States,2006-01-01,2006-01-01
+86,10050,Storm,Convective storm,1,Meteorological,United States,2006-01-01,2006-01-01
+87,10051,Storm,Convective storm,13,Meteorological,Vietnam,2006-01-01,2006-01-01
+88,10052,Storm,,1,Meteorological,Vietnam,2006-01-01,2006-01-01
+89,10060,Flood,Riverine flood,2,Hydrological,United States,2006-01-01,2006-01-01
+90,10061,Flood,Riverine flood,14,Hydrological,United States,2006-01-01,2006-01-01
+91,10062,Storm,,11,Meteorological,United States,2006-01-01,2006-01-01
+92,10066,Storm,Tropical cyclone,4,Meteorological,Mexico,2006-01-01,2006-01-01
+93,10068,Landslide,Landslide,147,Hydrological,Nepal,2006-01-01,2006-01-01
+94,10069,Storm,Convective storm,10,Meteorological,United States,2006-01-01,2006-01-01
+95,10070,Storm,Convective storm,12,Meteorological,United States,2006-01-01,2006-01-01
+96,10071,Storm,Convective storm,3,Meteorological,United States,2006-01-01,2006-01-01
+97,10072,Storm,Tropical cyclone,6,Meteorological,United States,2006-01-01,2006-01-01
+98,10073,Storm,Tropical cyclone,95,Meteorological,Vietnam,2006-01-01,2006-01-01
+99,10074,Storm,Convective storm,3,Meteorological,Dem. Rep. Congo,2006-01-01,2006-01-01
+100,10095,Flood,Riverine flood,,Hydrological,Mexico,2006-01-01,2006-01-01
+101,10096,Landslide,Landslide,11,Hydrological,Mexico,2006-01-01,2006-01-01
+102,10097,Landslide,Landslide,10,Hydrological,Mexico,2006-01-01,2006-01-01
+103,10098,Extreme temperature,Cold wave,5,Meteorological,Mexico,2006-01-01,2006-01-01
+104,10121,Flood,Riverine flood,,Hydrological,Nepal,2006-01-01,2006-01-01
+105,10122,Landslide,Landslide,10,Hydrological,Nepal,2006-01-01,2006-01-01
+106,10123,Drought,Drought,,Climatological,Nepal,2006-01-01,2006-01-01
+107,10209,Storm,Convective storm,,Meteorological,United States,2006-01-01,2006-01-01
+108,10210,Storm,Convective storm,,Meteorological,United States,2006-01-01,2006-01-01
+109,10211,Storm,Convective storm,,Meteorological,United States,2006-01-01,2006-01-01
+110,10212,Flood,Riverine flood,2,Hydrological,United States,2006-01-01,2006-01-01
+111,10213,Flood,Riverine flood,,Hydrological,United States,2006-01-01,2006-01-01
+112,10214,Flood,Riverine flood,1,Hydrological,United States,2006-01-01,2006-01-01
+113,10215,Flood,Riverine flood,,Hydrological,United States,2006-01-01,2006-01-01
+114,10216,Flood,Riverine flood,,Hydrological,United States,2006-01-01,2006-01-01
+115,10217,Flood,Riverine flood,2,Hydrological,United States,2006-01-01,2006-01-01
+116,10218,Extreme temperature,Heat wave,164,Meteorological,United States,2006-01-01,2006-01-01
+117,10219,Extreme temperature,Heat wave,24,Meteorological,United States,2006-01-01,2006-01-01
+118,10220,Wildfire,"Land fire (Brush, Bush, Pasture)",4,Climatological,United States,2006-01-01,2006-01-01
+119,10221,Wildfire,"Land fire (Brush, Bush, Pasture)",,Climatological,United States,2006-01-01,2006-01-01
+120,10222,Wildfire,,1,Climatological,United States,2006-01-01,2006-01-01
+121,10223,Storm,,10,Meteorological,United States,2006-01-01,2006-01-01
+122,10225,Flood,Flash flood,4,Hydrological,Vietnam,2006-01-01,2006-01-01
+123,10226,Flood,Riverine flood,60,Hydrological,Vietnam,2006-01-01,2006-01-01
+124,10227,Flood,Riverine flood,60,Hydrological,Vietnam,2006-01-01,2006-01-01
+125,10228,Storm,Tropical cyclone,204,Meteorological,Vietnam,2006-01-01,2006-01-01
+126,10229,Storm,Tropical cyclone,71,Meteorological,Vietnam,2006-01-01,2006-01-01
+127,10234,Flood,Riverine flood,,Hydrological,Dem. Rep. Congo,2006-01-01,2006-01-01
+128,10235,Storm,,65,Meteorological,United States,2007-01-01,2007-01-01
+129,10242,Storm,Convective storm,16,Meteorological,United States,2007-01-01,2007-01-01
+130,10256,Storm,Convective storm,20,Meteorological,United States,2007-01-01,2007-01-01
+131,10257,Flood,Riverine flood,24,Hydrological,United States,2007-01-01,2007-01-01
+132,10259,Epidemic,Bacterial disease,29,Biological,Dem. Rep. Congo,2005-01-01,2005-01-01
+133,10260,Epidemic,Bacterial disease,38,Biological,Dem. Rep. Congo,2005-01-01,2005-01-01
+134,10266,Flood,Riverine flood,,Hydrological,Dem. Rep. Congo,2006-01-01,2006-01-01
+135,10267,Epidemic,Bacterial disease,34,Biological,Dem. Rep. Congo,2006-01-01,2006-01-01
+136,10268,Epidemic,Bacterial disease,13,Biological,Dem. Rep. Congo,2006-01-01,2006-01-01
+137,10269,Epidemic,Bacterial disease,20,Biological,Dem. Rep. Congo,2006-01-01,2006-01-01
+138,10270,Epidemic,Bacterial disease,19,Biological,Dem. Rep. Congo,2006-01-01,2006-01-01
+139,10271,Epidemic,Bacterial disease,42,Biological,Dem. Rep. Congo,2006-01-01,2006-01-01
+140,10272,Epidemic,Bacterial disease,10,Biological,Dem. Rep. Congo,2006-01-01,2006-01-01
+141,10273,Epidemic,Viral disease,13,Biological,Dem. Rep. Congo,2006-01-01,2006-01-01
+142,10291,Flood,Riverine flood,120,Hydrological,Bangladesh,2007-01-01,2007-01-01
+143,10292,Flood,Riverine flood,1110,Hydrological,Bangladesh,2007-01-01,2007-01-01
+144,10330,Storm,Tropical cyclone,4234,Meteorological,Bangladesh,2007-01-01,2007-01-01
+145,10358,Storm,Tropical cyclone,41,Meteorological,Bangladesh,2007-01-01,2007-01-01
+146,10359,Epidemic,Bacterial disease,54,Biological,Bangladesh,2007-01-01,2007-01-01
+147,10360,Epidemic,Viral disease,32,Biological,Bangladesh,2007-01-01,2007-01-01
+148,10372,Flood,Riverine flood,,Hydrological,Canada,2007-01-01,2007-01-01
+149,10373,Storm,,4,Meteorological,Canada,2007-01-01,2007-01-01
+150,10467,Flood,Riverine flood,16,Hydrological,Bangladesh,2008-01-01,2008-01-01
+151,10506,Storm,Tropical cyclone,15,Meteorological,Bangladesh,2008-01-01,2008-01-01
+152,10526,Flood,Riverine flood,,Hydrological,Canada,2008-01-01,2008-01-01
+153,10550,Flood,Riverine flood,12,Hydrological,Bangladesh,2008-01-01,2008-01-01
+154,10551,Landslide,Landslide,13,Hydrological,Bangladesh,2008-01-01,2008-01-01
+155,10552,Storm,Tropical cyclone,12,Meteorological,Bangladesh,2008-01-01,2008-01-01
+156,10562,Flood,Riverine flood,,Hydrological,Canada,2008-01-01,2008-01-01
+157,10661,Storm,Tropical cyclone,7,Meteorological,Bangladesh,2009-01-01,2009-01-01
+158,10685,Flood,Riverine flood,22,Hydrological,Mexico,2007-01-01,2007-01-01
+159,10686,Flood,Riverine flood,26,Hydrological,United States,2007-01-01,2007-01-01
+160,10688,Storm,Tropical cyclone,5,Meteorological,Mexico,2007-01-01,2007-01-01
+161,10700,Storm,,17,Meteorological,United States,2007-01-01,2007-01-01
+162,10703,Storm,Convective storm,12,Meteorological,United States,2007-01-01,2007-01-01
+163,10704,Storm,,23,Meteorological,United States,2007-01-01,2007-01-01
+164,10707,Flood,Riverine flood,8,Hydrological,United States,2007-01-01,2007-01-01
+165,10716,Flood,Riverine flood,214,Hydrological,Nepal,2007-01-01,2007-01-01
+166,10725,Landslide,Landslide,16,Hydrological,Mexico,2007-01-01,2007-01-01
+167,10730,Storm,,5,Meteorological,United States,2007-01-01,2007-01-01
+168,10738,Flood,Flash flood,4,Hydrological,United States,2007-01-01,2007-01-01
+169,10740,Wildfire,"Land fire (Brush, Bush, Pasture)",8,Climatological,United States,2007-01-01,2007-01-01
+170,10741,Storm,,4,Meteorological,United States,2007-01-01,2007-01-01
+171,10751,Storm,Tropical cyclone,9,Meteorological,Mexico,2007-01-01,2007-01-01
+172,10752,Storm,Tropical cyclone,,Meteorological,Mexico,2007-01-01,2007-01-01
+173,10760,Storm,Convective storm,10,Meteorological,United States,2007-01-01,2007-01-01
+174,10761,Storm,Tropical cyclone,7,Meteorological,United States,2007-01-01,2007-01-01
+175,10762,Storm,Tropical cyclone,96,Meteorological,Vietnam,2007-01-01,2007-01-01
+176,10767,Storm,,22,Meteorological,United States,2007-01-01,2007-01-01
+177,10768,Storm,,24,Meteorological,United States,2007-01-01,2007-01-01
+178,10781,Storm,Convective storm,,Meteorological,Liberia,2007-01-01,2007-01-01
+179,10782,Flood,Riverine flood,1,Hydrological,Liberia,2007-01-01,2007-01-01
+180,10787,Flood,Coastal flood,,Hydrological,Mexico,2007-01-01,2007-01-01
+181,10788,Storm,Tropical cyclone,6,Meteorological,Mexico,2007-01-01,2007-01-01
+182,10801,Storm,Tropical cyclone,2,Meteorological,Mauritius,2007-01-01,2007-01-01
+183,10866,Storm,Convective storm,20,Meteorological,United States,2007-01-01,2007-01-01
+184,10867,Flood,Riverine flood,8,Hydrological,United States,2007-01-01,2007-01-01
+185,10868,Flood,Riverine flood,10,Hydrological,United States,2007-01-01,2007-01-01
+186,10869,Wildfire,Forest fire,,Climatological,United States,2007-01-01,2007-01-01
+187,10870,Wildfire,Forest fire,,Climatological,United States,2007-01-01,2007-01-01
+188,10871,Drought,Drought,,Climatological,United States,2007-01-01,2009-01-01
+189,10872,Flood,Coastal flood,74,Hydrological,Vietnam,2007-01-01,2007-01-01
+190,10873,Flood,Coastal flood,55,Hydrological,Vietnam,2007-01-01,2007-01-01
+191,10874,Flood,Riverine flood,15,Hydrological,Vietnam,2007-01-01,2007-01-01
+192,10875,Flood,Riverine flood,83,Hydrological,Vietnam,2007-01-01,2007-01-01
+193,10876,Epidemic,Viral disease,27,Biological,Vietnam,2007-01-01,2007-01-01
+194,10877,Flood,,3,Hydrological,Vietnam,2007-01-01,2007-01-01
+195,10882,Storm,Tropical cyclone,2,Meteorological,Mexico,2008-01-01,2008-01-01
+196,10885,Storm,Tropical cyclone,162,Meteorological,Vietnam,2008-01-01,2008-01-01
+197,10886,Storm,Tropical cyclone,46,Meteorological,Vietnam,2008-01-01,2008-01-01
+198,10887,Flood,Riverine flood,65,Hydrological,Nepal,2008-01-01,2008-01-01
+199,10888,Flood,Riverine flood,2,Hydrological,United States,2008-01-01,2008-01-01
+200,10889,Storm,Convective storm,7,Meteorological,United States,2008-01-01,2008-01-01
+201,10890,Storm,Convective storm,22,Meteorological,United States,2008-01-01,2008-01-01
+202,10894,Storm,Convective storm,59,Meteorological,United States,2008-01-01,2008-01-01
+203,10895,Storm,Convective storm,2,Meteorological,United States,2008-01-01,2008-01-01
+204,10898,Storm,Tropical cyclone,,Meteorological,United States,2008-01-01,2008-01-01
+205,10909,Flood,Riverine flood,50,Hydrological,Nepal,2008-01-01,2008-01-01
+206,10917,Flood,Flash flood,29,Hydrological,Vietnam,2008-01-01,2008-01-01
+207,10918,Flood,Riverine flood,16,Hydrological,Vietnam,2008-01-01,2008-01-01
+208,10919,Flood,Riverine flood,99,Hydrological,Vietnam,2008-01-01,2008-01-01
+209,10920,Flood,Riverine flood,18,Hydrological,United States,2008-01-01,2008-01-01
+210,10921,Flood,Riverine flood,24,Hydrological,United States,2008-01-01,2008-01-01
+211,10943,Storm,Tropical cyclone,12,Meteorological,United States,2008-01-01,2008-01-01
+212,10944,Storm,Tropical cyclone,82,Meteorological,United States,2008-01-01,2008-01-01
+213,10945,Storm,Tropical cyclone,18,Meteorological,Vietnam,2008-01-01,2008-01-01
+214,10946,Storm,Tropical cyclone,11,Meteorological,Vietnam,2008-01-01,2008-01-01
+215,10947,Storm,Tropical cyclone,17,Meteorological,Vietnam,2008-01-01,2008-01-01
+216,10980,Flood,Riverine flood,,Hydrological,Liberia,2008-01-01,2008-01-01
+217,10986,Flood,Flash flood,12,Hydrological,Mexico,2008-01-01,2008-01-01
+218,10987,Landslide,Landslide,22,Hydrological,Mexico,2008-01-01,2008-01-01
+219,11069,Storm,Convective storm,4,Meteorological,United States,2008-01-01,2008-01-01
+220,11070,Storm,Convective storm,3,Meteorological,United States,2008-01-01,2008-01-01
+221,11071,Storm,Convective storm,,Meteorological,United States,2008-01-01,2008-01-01
+222,11072,Storm,Convective storm,5,Meteorological,United States,2008-01-01,2008-01-01
+223,11073,Extreme temperature,Severe winter conditions,,Meteorological,United States,2008-01-01,2008-01-01
+224,11074,Earthquake,Ground movement,,Geophysical,United States,2008-01-01,2008-01-01
+225,11075,Flood,Riverine flood,,Hydrological,United States,2008-01-01,2009-01-01
+226,11076,Storm,Extra-tropical storm,12,Meteorological,United States,2008-01-01,2008-01-01
+227,11077,Storm,Tropical cyclone,43,Meteorological,United States,2008-01-01,2008-01-01
+228,11078,Storm,Tropical cyclone,7,Meteorological,United States,2008-01-01,2008-01-01
+229,11079,Wildfire,Forest fire,1,Climatological,United States,2008-01-01,2008-01-01
+230,11080,Wildfire,,,Climatological,United States,2008-01-01,2008-01-01
+231,11081,Flood,Flash flood,4,Hydrological,Vietnam,2008-01-01,2008-01-01
+232,11082,Flood,Riverine flood,9,Hydrological,Vietnam,2008-01-01,2009-01-01
+233,11084,Storm,Convective storm,9,Meteorological,United States,2009-01-01,2009-01-01
+234,11093,Insect infestation,,,Biological,Liberia,2009-01-01,2009-01-01
+235,11110,Flood,Riverine flood,2,Hydrological,United States,2009-01-01,2009-01-01
+236,11111,Extreme temperature,Cold wave,58,Meteorological,United States,2009-01-01,2009-01-01
+237,11113,Flood,Riverine flood,32,Hydrological,Dem. Rep. Congo,2007-01-01,2007-01-01
+238,11122,Epidemic,Bacterial disease,6,Biological,Dem. Rep. Congo,2007-01-01,2007-01-01
+239,11123,Epidemic,Viral disease,166,Biological,Dem. Rep. Congo,2007-01-01,2007-01-01
+240,11130,Flood,Riverine flood,15,Hydrological,Dem. Rep. Congo,2008-01-01,2008-01-01
+241,11135,Storm,Convective storm,10,Meteorological,Dem. Rep. Congo,2008-01-01,2008-01-01
+242,11136,Earthquake,Ground movement,11,Geophysical,Dem. Rep. Congo,2008-01-01,2008-01-01
+243,11147,Storm,Tropical cyclone,190,Meteorological,Bangladesh,2009-01-01,2009-01-01
+244,11155,Flood,Riverine flood,6,Hydrological,Bangladesh,2009-01-01,2009-01-01
+245,11209,Flood,Riverine flood,10,Hydrological,Bangladesh,2009-01-01,2009-01-01
+246,11210,Extreme temperature,Cold wave,135,Meteorological,Bangladesh,2009-01-01,2010-01-01
+247,11211,Drought,Drought,,Climatological,Bangladesh,2009-01-01,2009-01-01
+248,11220,Storm,Convective storm,2,Meteorological,Canada,2009-01-01,2009-01-01
+249,11221,Flood,Riverine flood,,Hydrological,Canada,2009-01-01,2009-01-01
+250,11222,Storm,Tropical cyclone,,Meteorological,Canada,2009-01-01,2009-01-01
+251,11325,Storm,Convective storm,15,Meteorological,Bangladesh,2010-01-01,2010-01-01
+252,11369,Flood,Flash flood,,Hydrological,Bangladesh,2010-01-01,2010-01-01
+253,11370,Flood,Riverine flood,15,Hydrological,Bangladesh,2010-01-01,2010-01-01
+254,11371,Landslide,Landslide,66,Hydrological,Bangladesh,2010-01-01,2010-01-01
+255,11372,Storm,Tropical cyclone,8,Meteorological,Bangladesh,2010-01-01,2010-01-01
+256,11373,Storm,Tropical cyclone,3,Meteorological,Bangladesh,2010-01-01,2010-01-01
+257,11390,Storm,Convective storm,,Meteorological,Canada,2010-01-01,2010-01-01
+258,11514,Flood,Flash flood,10,Hydrological,Bangladesh,2011-01-01,2011-01-01
+259,11515,Extreme temperature,Cold wave,50,Meteorological,Bangladesh,2011-01-01,2011-01-01
+260,11518,Flood,Riverine flood,5,Hydrological,Canada,2011-01-01,2011-01-01
+261,11548,Storm,Tropical cyclone,4,Meteorological,Mexico,2009-01-01,2009-01-01
+262,11551,Storm,Convective storm,1,Meteorological,United States,2009-01-01,2009-01-01
+263,11552,Storm,Convective storm,6,Meteorological,United States,2009-01-01,2009-01-01
+264,11558,Flood,Riverine flood,3,Hydrological,Mexico,2009-01-01,2009-01-01
+265,11561,Flood,Riverine flood,87,Hydrological,Nepal,2009-01-01,2009-01-01
+266,11562,Flood,Riverine flood,30,Hydrological,Nepal,2009-01-01,2009-01-01
+267,11574,Flood,Riverine flood,,Hydrological,United States,2009-01-01,2009-01-01
+268,11579,Storm,Convective storm,6,Meteorological,United States,2009-01-01,2009-01-01
+269,11580,Storm,Convective storm,1,Meteorological,United States,2009-01-01,2009-01-01
+270,11581,Storm,Convective storm,16,Meteorological,United States,2009-01-01,2009-01-01
+271,11587,Storm,Tropical cyclone,6,Meteorological,United States,2009-01-01,2009-01-01
+272,11588,Storm,Tropical cyclone,182,Meteorological,Vietnam,2009-01-01,2009-01-01
+273,11591,Drought,Drought,,Climatological,Nepal,2009-01-01,2009-01-01
+274,11594,Storm,Tropical cyclone,3,Meteorological,United States,2009-01-01,2009-01-01
+275,11607,Flood,Riverine flood,2,Hydrological,Liberia,2009-01-01,2009-01-01
+276,11614,Flood,Riverine flood,4,Hydrological,Mexico,2009-01-01,2009-01-01
+277,11615,Flood,Riverine flood,,Hydrological,Mexico,2009-01-01,2009-01-01
+278,11616,Flood,Riverine flood,10,Hydrological,Mexico,2009-01-01,2009-01-01
+279,11617,Flood,Riverine flood,11,Hydrological,Mexico,2009-01-01,2009-01-01
+280,11618,Storm,Tropical cyclone,,Meteorological,Mexico,2009-01-01,2009-01-01
+281,11619,Epidemic,Viral disease,,Biological,Mexico,2009-01-01,2009-01-01
+282,11636,Landslide,Landslide,10,Hydrological,Nepal,2009-01-01,2009-01-01
+283,11637,Extreme temperature,Cold wave,18,Meteorological,Nepal,2009-01-01,2010-01-01
+284,11638,Epidemic,Bacterial disease,314,Biological,Nepal,2009-01-01,2009-01-01
+285,11681,Storm,Convective storm,7,Meteorological,United States,2009-01-01,2009-01-01
+286,11682,Storm,Convective storm,19,Meteorological,United States,2009-01-01,2009-01-01
+287,11683,Flood,Riverine flood,,Hydrological,United States,2009-01-01,2009-01-01
+288,11684,Flood,Riverine flood,9,Hydrological,United States,2009-01-01,2009-01-01
+289,11685,Wildfire,"Land fire (Brush, Bush, Pasture)",,Climatological,United States,2009-01-01,2009-01-01
+290,11686,Wildfire,"Land fire (Brush, Bush, Pasture)",2,Climatological,United States,2009-01-01,2009-01-01
+291,11688,Flood,Riverine flood,20,Hydrological,Vietnam,2009-01-01,2009-01-01
+292,11689,Flood,Riverine flood,17,Hydrological,Vietnam,2009-01-01,2009-01-01
+293,11690,Landslide,Landslide,13,Hydrological,Vietnam,2009-01-01,2009-01-01
+294,11691,Storm,Tropical cyclone,,Meteorological,Vietnam,2009-01-01,2009-01-01
+295,11696,Storm,Tropical cyclone,3,Meteorological,Mexico,2010-01-01,2010-01-01
+296,11701,Flood,Riverine flood,138,Hydrological,Nepal,2010-01-01,2010-01-01
+297,11702,Storm,Convective storm,20,Meteorological,United States,2010-01-01,2010-01-01
+298,11704,Flood,Riverine flood,41,Hydrological,Mexico,2010-01-01,2010-01-01
+299,11706,Storm,Tropical cyclone,6,Meteorological,Mexico,2010-01-01,2010-01-01
+300,11713,Flood,Riverine flood,25,Hydrological,Mexico,2010-01-01,2010-01-01
+301,11715,Flood,Riverine flood,12,Hydrological,Nepal,2010-01-01,2010-01-01
+302,11731,Storm,Convective storm,5,Meteorological,United States,2010-01-01,2010-01-01
+303,11733,Storm,Tropical cyclone,1,Meteorological,United States,2010-01-01,2010-01-01
+304,11736,Storm,Tropical cyclone,22,Meteorological,Mexico,2010-01-01,2010-01-01
+305,11737,Storm,Tropical cyclone,12,Meteorological,Mexico,2010-01-01,2010-01-01
+306,11741,Storm,Convective storm,20,Meteorological,United States,2010-01-01,2010-01-01
+307,11742,Storm,Convective storm,30,Meteorological,United States,2010-01-01,2010-01-01
+308,11743,Storm,Convective storm,11,Meteorological,United States,2010-01-01,2010-01-01
+309,11744,Storm,Tropical cyclone,8,Meteorological,United States,2010-01-01,2010-01-01
+310,11773,Flood,Riverine flood,1,Hydrological,Liberia,2010-01-01,2010-01-01
+311,11781,Earthquake,Ground movement,2,Geophysical,Mexico,2010-01-01,2010-01-01
+312,11782,Landslide,Landslide,27,Hydrological,Mexico,2010-01-01,2010-01-01
+313,11783,Landslide,Landslide,44,Hydrological,Mexico,2010-01-01,2010-01-01
+314,11805,Epidemic,Bacterial disease,65,Biological,Nepal,2010-01-01,2010-01-01
+315,11806,Epidemic,Bacterial disease,8,Biological,Nepal,2010-01-01,2010-01-01
+316,11882,Storm,Convective storm,12,Meteorological,United States,2010-01-01,2010-01-01
+317,11883,Storm,Convective storm,8,Meteorological,United States,2010-01-01,2011-01-01
+318,11884,Storm,Convective storm,2,Meteorological,United States,2010-01-01,2010-01-01
+319,11885,Storm,Convective storm,1,Meteorological,United States,2010-01-01,2010-01-01
+320,11886,Storm,Convective storm,,Meteorological,United States,2010-01-01,2010-01-01
+321,11887,Earthquake,Ground movement,,Geophysical,United States,2010-01-01,2010-01-01
+322,11888,Flood,Riverine flood,,Hydrological,United States,2010-01-01,2010-01-01
+323,11889,Flood,Riverine flood,20,Hydrological,United States,2010-01-01,2010-01-01
+324,11890,Flood,Riverine flood,,Hydrological,United States,2010-01-01,2010-01-01
+325,11894,Flood,Flash flood,84,Hydrological,Vietnam,2010-01-01,2010-01-01
+326,11895,Flood,Riverine flood,21,Hydrological,Vietnam,2010-01-01,2010-01-01
+327,11896,Flood,Riverine flood,31,Hydrological,Vietnam,2010-01-01,2010-01-01
+328,11897,Flood,Riverine flood,50,Hydrological,Vietnam,2010-01-01,2010-01-01
+329,11898,Storm,Tropical cyclone,3,Meteorological,Mexico,2011-01-01,2011-01-01
+330,11903,Storm,Convective storm,3,Meteorological,United States,2011-01-01,2011-01-01
+331,11906,Storm,Tropical cyclone,22,Meteorological,Mexico,2011-01-01,2011-01-01
+332,11916,Storm,Convective storm,39,Meteorological,United States,2011-01-01,2011-01-01
+333,11917,Wildfire,"Land fire (Brush, Bush, Pasture)",,Climatological,Mexico,2011-01-01,2011-01-01
+334,11919,Storm,Tropical cyclone,3,Meteorological,Mexico,2011-01-01,2011-01-01
+335,11922,Storm,Convective storm,354,Meteorological,United States,2011-01-01,2011-01-01
+336,11923,Storm,Convective storm,16,Meteorological,Vietnam,2011-01-01,2011-01-01
+337,11932,Extreme temperature,Cold wave,3,Meteorological,Mexico,2011-01-01,2011-01-01
+338,11945,Flood,Riverine flood,15,Hydrological,Nepal,2011-01-01,2011-01-01
+339,11964,Storm,Convective storm,46,Meteorological,United States,2011-01-01,2011-01-01
+340,11965,Storm,Convective storm,176,Meteorological,United States,2011-01-01,2011-01-01
+341,11966,Storm,Convective storm,11,Meteorological,United States,2011-01-01,2011-01-01
+342,11967,Flood,Riverine flood,1,Hydrological,United States,2011-01-01,2011-01-01
+343,11968,Extreme temperature,Heat wave,22,Meteorological,United States,2011-01-01,2011-01-01
+344,11969,Wildfire,"Land fire (Brush, Bush, Pasture)",2,Climatological,United States,2011-01-01,2011-01-01
+345,11974,Storm,Tropical cyclone,124,Meteorological,Vietnam,2009-01-01,2009-01-01
+346,11980,Flood,Riverine flood,,Hydrological,Dem. Rep. Congo,2009-01-01,2009-01-01
+347,11981,Wildfire,"Land fire (Brush, Bush, Pasture)",,Climatological,Dem. Rep. Congo,2009-01-01,2009-01-01
+348,11982,Epidemic,Bacterial disease,102,Biological,Dem. Rep. Congo,2009-01-01,2009-01-01
+349,11983,Epidemic,Bacterial disease,61,Biological,Dem. Rep. Congo,2009-01-01,2009-01-01
+350,11984,Epidemic,Viral disease,17,Biological,Dem. Rep. Congo,2009-01-01,2009-01-01
+351,11985,Epidemic,,29,Biological,Dem. Rep. Congo,2009-01-01,2009-01-01
+352,11991,Storm,Tropical cyclone,10,Meteorological,Vietnam,2010-01-01,2010-01-01
+353,11994,Storm,Tropical cyclone,11,Meteorological,Vietnam,2010-01-01,2010-01-01
+354,11995,Storm,Tropical cyclone,14,Meteorological,Vietnam,2010-01-01,2010-01-01
+355,11997,Flood,Riverine flood,,Hydrological,Dem. Rep. Congo,2010-01-01,2010-01-01
+356,11998,Flood,Riverine flood,,Hydrological,Dem. Rep. Congo,2010-01-01,2010-01-01
+357,11999,Landslide,Landslide,46,Hydrological,Dem. Rep. Congo,2010-01-01,2010-01-01
+358,12000,Wildfire,"Land fire (Brush, Bush, Pasture)",8,Climatological,Dem. Rep. Congo,2010-01-01,2010-01-01
+359,12001,Epidemic,Bacterial disease,31,Biological,Dem. Rep. Congo,2010-01-01,2010-01-01
+360,12002,Epidemic,Viral disease,25,Biological,Dem. Rep. Congo,2010-01-01,2010-01-01
+361,12029,Storm,Convective storm,13,Meteorological,Bangladesh,2011-01-01,2011-01-01
+362,12031,Storm,Tropical cyclone,1,Meteorological,Canada,2011-01-01,2011-01-01
+363,12045,Epidemic,Viral disease,33,Biological,Dem. Rep. Congo,2011-01-01,2011-01-01
+364,12055,Landslide,Landslide,17,Hydrological,Bangladesh,2011-01-01,2011-01-01
+365,12056,Extreme temperature,Cold wave,12,Meteorological,Bangladesh,2011-01-01,2011-01-01
+366,12063,Storm,Convective storm,1,Meteorological,Canada,2011-01-01,2011-01-01
+367,12064,Wildfire,Forest fire,1,Climatological,Canada,2011-01-01,2011-01-01
+368,12122,Flood,Riverine flood,139,Hydrological,Bangladesh,2012-01-01,2012-01-01
+369,12143,Storm,Convective storm,25,Meteorological,Bangladesh,2012-01-01,2012-01-01
+370,12171,Flood,Riverine flood,,Hydrological,Bangladesh,2012-01-01,2012-01-01
+371,12172,Storm,Convective storm,108,Meteorological,Bangladesh,2012-01-01,2012-01-01
+372,12173,Extreme temperature,Cold wave,72,Meteorological,Bangladesh,2012-01-01,2013-01-01
+373,12185,Storm,Convective storm,,Meteorological,Canada,2012-01-01,2012-01-01
+374,12186,Storm,Convective storm,,Meteorological,Canada,2012-01-01,2012-01-01
+375,12187,Flood,Riverine flood,,Hydrological,Canada,2012-01-01,2012-01-01
+376,12338,Storm,Convective storm,2,Meteorological,Bangladesh,2013-01-01,2013-01-01
+377,12339,Storm,Convective storm,31,Meteorological,Bangladesh,2013-01-01,2013-01-01
+378,12340,Storm,Tropical cyclone,17,Meteorological,Bangladesh,2013-01-01,2013-01-01
+379,12349,Extreme temperature,Severe winter conditions,10,Meteorological,Canada,2013-01-01,2013-01-01
+380,12350,Flood,Riverine flood,4,Hydrological,Canada,2013-01-01,2013-01-01
+381,12423,Storm,Tropical cyclone,5,Meteorological,Mexico,2011-01-01,2011-01-01
+382,12431,Flood,Riverine flood,89,Hydrological,Nepal,2011-01-01,2011-01-01
+383,12461,Storm,Tropical cyclone,10,Meteorological,Mexico,2011-01-01,2011-01-01
+384,12475,Earthquake,Ground movement,2,Geophysical,Mexico,2011-01-01,2011-01-01
+385,12476,Flood,Riverine flood,,Hydrological,Mexico,2011-01-01,2011-01-01
+386,12477,Flood,Riverine flood,3,Hydrological,Mexico,2011-01-01,2011-01-01
+387,12478,Flood,Riverine flood,74,Hydrological,Mexico,2011-01-01,2011-01-01
+388,12479,Drought,Drought,,Climatological,Mexico,2011-01-01,2011-01-01
+389,12491,Earthquake,Ground movement,7,Geophysical,Nepal,2011-01-01,2011-01-01
+390,12492,Landslide,Landslide,16,Hydrological,Nepal,2011-01-01,2011-01-01
+391,12493,Landslide,Landslide,13,Hydrological,Nepal,2011-01-01,2011-01-01
+392,12494,Extreme temperature,Cold wave,,Meteorological,Nepal,2011-01-01,2012-01-01
+393,12495,Extreme temperature,Cold wave,42,Meteorological,Nepal,2011-01-01,2011-01-01
+394,12540,Storm,Convective storm,41,Meteorological,United States,2012-01-01,2012-01-01
+395,12605,Earthquake,Ground movement,2,Geophysical,Mexico,2012-01-01,2012-01-01
+396,12606,Storm,Tropical cyclone,12,Meteorological,Mexico,2012-01-01,2012-01-01
+397,12607,Storm,Tropical cyclone,7,Meteorological,Mexico,2012-01-01,2012-01-01
+398,12619,Flood,Riverine flood,72,Hydrological,Nepal,2012-01-01,2012-01-01
+399,12620,Landslide,Avalanche,11,Hydrological,Nepal,2012-01-01,2012-01-01
+400,12621,Extreme temperature,Cold wave,49,Meteorological,Nepal,2013-01-01,2013-01-01
+401,12693,Storm,Convective storm,1,Meteorological,United States,2012-01-01,2012-01-01
+402,12694,Storm,Convective storm,,Meteorological,United States,2012-01-01,2012-01-01
+403,12695,Storm,Convective storm,,Meteorological,United States,2012-01-01,2012-01-01
+404,12696,Storm,Convective storm,,Meteorological,United States,2012-01-01,2012-01-01
+405,12697,Storm,Convective storm,1,Meteorological,United States,2012-01-01,2012-01-01
+406,12698,Storm,Convective storm,5,Meteorological,United States,2012-01-01,2012-01-01
+407,12699,Storm,Convective storm,2,Meteorological,United States,2012-01-01,2012-01-01
+408,12700,Storm,Convective storm,14,Meteorological,United States,2012-01-01,2012-01-01
+409,12701,Storm,Convective storm,,Meteorological,United States,2012-01-01,2012-01-01
+410,12702,Storm,Convective storm,6,Meteorological,United States,2012-01-01,2012-01-01
+411,12703,Storm,Tropical cyclone,14,Meteorological,Mexico,2013-01-01,2013-01-01
+412,12704,Storm,Tropical cyclone,169,Meteorological,Mexico,2013-01-01,2013-01-01
+413,12705,Storm,Tropical cyclone,23,Meteorological,Mexico,2013-01-01,2013-01-01
+414,12710,Storm,Convective storm,,Meteorological,United States,2013-01-01,2013-01-01
+415,12714,Flood,Riverine flood,13,Hydrological,Mexico,2013-01-01,2013-01-01
+416,12715,Flood,Riverine flood,76,Hydrological,Nepal,2013-01-01,2013-01-01
+417,12759,Storm,Tropical cyclone,4,Meteorological,Mexico,2013-01-01,2013-01-01
+418,12768,Flood,Flash flood,11,Hydrological,Mauritius,2013-01-01,2013-01-01
+419,12829,Storm,Convective storm,4,Meteorological,United States,2013-01-01,2013-01-01
+420,12831,Flood,Riverine flood,9,Hydrological,United States,2011-01-01,2011-01-01
+421,12832,Storm,Tropical cyclone,46,Meteorological,United States,2011-01-01,2011-01-01
+422,12833,Storm,Tropical cyclone,15,Meteorological,United States,2011-01-01,2011-01-01
+423,12835,Storm,Convective storm,29,Meteorological,United States,2011-01-01,2011-01-01
+424,12836,Storm,Convective storm,6,Meteorological,United States,2011-01-01,2011-01-01
+425,12837,Storm,Convective storm,11,Meteorological,United States,2011-01-01,2011-01-01
+426,12838,Storm,Convective storm,10,Meteorological,United States,2011-01-01,2011-01-01
+427,12839,Flood,Riverine flood,2,Hydrological,United States,2011-01-01,2011-01-01
+428,12840,Flood,Riverine flood,5,Hydrological,United States,2011-01-01,2011-01-01
+429,12841,Storm,Convective storm,9,Meteorological,United States,2011-01-01,2011-01-01
+430,12842,Storm,Convective storm,7,Meteorological,United States,2011-01-01,2011-01-01
+431,12843,Wildfire,Forest fire,4,Climatological,United States,2011-01-01,2011-01-01
+432,12844,Wildfire,Forest fire,2,Climatological,United States,2011-01-01,2011-01-01
+433,12845,Drought,Drought,,Climatological,United States,2011-01-01,2011-01-01
+434,12849,Flood,Riverine flood,24,Hydrological,Vietnam,2011-01-01,2011-01-01
+435,12850,Flood,Riverine flood,85,Hydrological,Vietnam,2011-01-01,2011-01-01
+436,12851,Flood,Riverine flood,13,Hydrological,Vietnam,2011-01-01,2011-01-01
+437,12852,Storm,Tropical cyclone,,Meteorological,Vietnam,2011-01-01,2011-01-01
+438,12854,Flood,Riverine flood,,Hydrological,Dem. Rep. Congo,2011-01-01,2011-01-01
+439,12855,Flood,Riverine flood,,Hydrological,Dem. Rep. Congo,2011-01-01,2011-01-01
+440,12856,Epidemic,Bacterial disease,603,Biological,Dem. Rep. Congo,2011-01-01,2012-01-01
+441,12858,Storm,Tropical cyclone,54,Meteorological,United States,2012-01-01,2012-01-01
+442,12859,Storm,Tropical cyclone,10,Meteorological,Vietnam,2012-01-01,2012-01-01
+443,12860,Storm,Tropical cyclone,17,Meteorological,Vietnam,2012-01-01,2012-01-01
+444,12861,Drought,Drought,,Climatological,United States,2012-01-01,2012-01-01
+445,12862,Drought,Drought,,Climatological,United States,2012-01-01,2012-01-01
+446,12863,Storm,Tropical cyclone,1,Meteorological,United States,2012-01-01,2012-01-01
+447,12864,Storm,Tropical cyclone,11,Meteorological,Vietnam,2012-01-01,2012-01-01
+448,12867,Storm,Convective storm,7,Meteorological,United States,2012-01-01,2012-01-01
+449,12868,Storm,Convective storm,17,Meteorological,United States,2012-01-01,2012-01-01
+450,12869,Storm,Convective storm,3,Meteorological,United States,2012-01-01,2012-01-01
+451,12870,Storm,Convective storm,28,Meteorological,United States,2012-01-01,2012-01-01
+452,12871,Storm,Convective storm,1,Meteorological,United States,2012-01-01,2012-01-01
+453,12872,Flood,Riverine flood,2,Hydrological,United States,2012-01-01,2012-01-01
+454,12873,Storm,Tropical cyclone,9,Meteorological,United States,2012-01-01,2012-01-01
+455,12874,Extreme temperature,Heat wave,123,Meteorological,United States,2012-01-01,2012-01-01
+456,12875,Wildfire,,2,Climatological,United States,2012-01-01,2012-01-01
+457,12876,Wildfire,,1,Climatological,United States,2012-01-01,2012-01-01
+458,12878,Flood,Riverine flood,34,Hydrological,Vietnam,2012-01-01,2012-01-01
+459,12881,Flood,Riverine flood,1,Hydrological,Dem. Rep. Congo,2012-01-01,2012-01-01
+460,12882,Epidemic,Bacterial disease,40,Biological,Dem. Rep. Congo,2012-01-01,2012-01-01
+461,12883,Epidemic,Bacterial disease,512,Biological,Dem. Rep. Congo,2012-01-01,2012-01-01
+462,12884,Epidemic,Viral disease,20,Biological,Dem. Rep. Congo,2012-01-01,2012-01-01
+463,12885,Epidemic,Viral disease,36,Biological,Dem. Rep. Congo,2012-01-01,2012-01-01
+464,12896,Flood,Riverine flood,9,Hydrological,United States,2013-01-01,2013-01-01
+465,12897,Flood,Riverine flood,23,Hydrological,Vietnam,2013-01-01,2013-01-01
+466,12898,Flood,Riverine flood,29,Hydrological,Vietnam,2013-01-01,2013-01-01
+467,12900,Storm,Convective storm,29,Meteorological,United States,2013-01-01,2013-01-01
+468,12901,Storm,Convective storm,6,Meteorological,United States,2013-01-01,2013-01-01
+469,12902,Storm,Convective storm,11,Meteorological,United States,2013-01-01,2013-01-01
+470,12904,Storm,Convective storm,15,Meteorological,United States,2013-01-01,2013-01-01
+471,12905,Storm,Convective storm,14,Meteorological,United States,2013-01-01,2013-01-01
+472,12906,Storm,Convective storm,3,Meteorological,United States,2013-01-01,2013-01-01
+473,12907,Storm,Convective storm,,Meteorological,Canada,2013-01-01,2013-01-01
+474,12909,Storm,Convective storm,3,Meteorological,United States,2013-01-01,2013-01-01
+475,12910,Storm,Convective storm,27,Meteorological,United States,2013-01-01,2013-01-01
+476,12911,Storm,Convective storm,1,Meteorological,United States,2013-01-01,2013-01-01
+477,12912,Extreme temperature,Severe winter conditions,19,Meteorological,United States,2013-01-01,2013-01-01
+478,12913,Storm,Convective storm,4,Meteorological,United States,2013-01-01,2013-01-01
+479,12914,Flood,Riverine flood,2,Hydrological,United States,2013-01-01,2013-01-01
+480,12915,Flood,Riverine flood,3,Hydrological,United States,2013-01-01,2013-01-01
+481,12916,Flood,Riverine flood,3,Hydrological,United States,2013-01-01,2013-01-01
+482,12917,Flood,Riverine flood,5,Hydrological,United States,2013-01-01,2013-01-01
+483,12918,Flood,Riverine flood,4,Hydrological,United States,2013-01-01,2013-01-01
+484,12919,Wildfire,Forest fire,,Climatological,United States,2013-01-01,2013-01-01
+485,12920,Wildfire,Forest fire,2,Climatological,United States,2013-01-01,2013-01-01
+486,12921,Wildfire,Forest fire,19,Climatological,United States,2013-01-01,2013-01-01
+487,12922,Wildfire,,,Climatological,United States,2013-01-01,2013-01-01
+488,12923,Wildfire,,1,Climatological,United States,2013-01-01,2013-01-01
+489,12924,Flood,Riverine flood,5,Hydrological,Vietnam,2013-01-01,2013-01-01
+490,12925,Flood,Riverine flood,30,Hydrological,Vietnam,2013-01-01,2013-01-01
+491,12926,Flood,Riverine flood,7,Hydrological,Vietnam,2013-01-01,2013-01-01
+492,12927,Flood,Riverine flood,47,Hydrological,Vietnam,2013-01-01,2013-01-01
+493,12928,Storm,Tropical cyclone,7,Meteorological,Vietnam,2013-01-01,2013-01-01
+494,12929,Storm,Tropical cyclone,31,Meteorological,Vietnam,2013-01-01,2013-01-01
+495,12930,Storm,Tropical cyclone,20,Meteorological,Vietnam,2013-01-01,2013-01-01
+496,12931,Storm,Tropical cyclone,16,Meteorological,Vietnam,2013-01-01,2013-01-01
+497,12984,Flood,Riverine flood,59,Hydrological,Bangladesh,2014-01-01,2014-01-01
+498,12998,Flood,Flash flood,,Hydrological,Canada,2014-01-01,2014-01-01
+499,13008,Storm,Convective storm,16,Meteorological,Bangladesh,2014-01-01,2014-01-01
+500,13009,Storm,Convective storm,4,Meteorological,Bangladesh,2014-01-01,2014-01-01
+501,13010,Flood,,,Hydrological,Bangladesh,2014-01-01,2014-01-01
+502,13026,Extreme temperature,Cold wave,,Meteorological,Canada,2014-01-01,2014-01-01
+503,13090,Storm,Convective storm,53,Meteorological,Bangladesh,2015-01-01,2015-01-01
+504,13100,Flood,Riverine flood,20,Hydrological,Bangladesh,2015-01-01,2015-01-01
+505,13101,Flood,Riverine flood,11,Hydrological,Bangladesh,2015-01-01,2015-01-01
+506,13119,Storm,Tropical cyclone,45,Meteorological,Bangladesh,2015-01-01,2015-01-01
+507,13154,Storm,Convective storm,13,Meteorological,Bangladesh,2015-01-01,2015-01-01
+508,13155,Storm,Convective storm,6,Meteorological,Bangladesh,2015-01-01,2015-01-01
+509,13156,Earthquake,Ground movement,4,Geophysical,Bangladesh,2015-01-01,2015-01-01
+510,13157,Landslide,Landslide,7,Hydrological,Bangladesh,2015-01-01,2015-01-01
+511,13168,Wildfire,Forest fire,,Climatological,Canada,2015-01-01,2015-01-01
+512,13231,Storm,Tropical cyclone,28,Meteorological,Bangladesh,2016-01-01,2016-01-01
+513,13242,Wildfire,Forest fire,,Climatological,Canada,2016-01-01,2016-01-01
+514,13250,Storm,Convective storm,59,Meteorological,Bangladesh,2016-01-01,2016-01-01
+515,13261,Earthquake,Ground movement,5,Geophysical,Bangladesh,2016-01-01,2016-01-01
+516,13277,Landslide,Avalanche,18,Hydrological,Nepal,2005-01-01,2005-01-01
+517,13290,Flood,Flash flood,119,Hydrological,Nepal,2013-01-01,2013-01-01
+518,13300,Storm,Tropical cyclone,,Meteorological,Mexico,2014-01-01,2014-01-01
+519,13305,Storm,Tropical cyclone,6,Meteorological,Mexico,2014-01-01,2014-01-01
+520,13307,Flood,,294,Hydrological,Nepal,2014-01-01,2014-01-01
+521,13310,Storm,Tropical cyclone,6,Meteorological,Mexico,2014-01-01,2014-01-01
+522,13314,Storm,Convective storm,83,Meteorological,Nepal,2014-01-01,2014-01-01
+523,13329,Flood,Riverine flood,8,Hydrological,Nepal,2014-01-01,2014-01-01
+524,13340,Storm,Tropical cyclone,1,Meteorological,Mexico,2014-01-01,2014-01-01
+525,13346,Storm,Tropical cyclone,3,Meteorological,Mexico,2014-01-01,2014-01-01
+526,13347,Storm,Tropical cyclone,3,Meteorological,Mexico,2014-01-01,2014-01-01
+527,13396,Epidemic,Viral disease,4810,Biological,Liberia,2014-01-01,2016-01-01
+528,13406,Earthquake,Ground movement,,Geophysical,Mexico,2014-01-01,2014-01-01
+529,13407,Earthquake,Ground movement,3,Geophysical,Mexico,2014-01-01,2014-01-01
+530,13425,Landslide,Avalanche,16,Hydrological,Nepal,2014-01-01,2014-01-01
+531,13426,Flood,Riverine flood,16,Hydrological,Nepal,2014-01-01,2014-01-01
+532,13427,Landslide,Landslide,156,Hydrological,Nepal,2014-01-01,2014-01-01
+533,13472,Storm,Convective storm,14,Meteorological,Mexico,2015-01-01,2015-01-01
+534,13474,Landslide,Landslide,36,Hydrological,Nepal,2015-01-01,2015-01-01
+535,13492,Earthquake,Ground movement,8831,Geophysical,Nepal,2015-01-01,2015-01-01
+536,13493,Earthquake,Ground movement,138,Geophysical,Nepal,2015-01-01,2015-01-01
+537,13510,Storm,Tropical cyclone,14,Meteorological,Mexico,2015-01-01,2015-01-01
+538,13576,Storm,Convective storm,14,Meteorological,Mexico,2015-01-01,2015-01-01
+539,13577,Flood,Riverine flood,,Hydrological,Mexico,2015-01-01,2015-01-01
+540,13590,Landslide,Landslide,29,Hydrological,Nepal,2015-01-01,2015-01-01
+541,13687,Wildfire,Forest fire,11,Climatological,Nepal,2016-01-01,2016-01-01
+542,13703,Storm,Convective storm,1,Meteorological,United States,2013-01-01,2013-01-01
+543,13706,Storm,Convective storm,20,Meteorological,United States,2013-01-01,2013-01-01
+544,13707,Storm,Convective storm,2,Meteorological,United States,2013-01-01,2013-01-01
+545,13708,Flood,Riverine flood,5,Hydrological,United States,2013-01-01,2013-01-01
+546,13709,Storm,Convective storm,3,Meteorological,United States,2014-01-01,2014-01-01
+547,13710,Storm,Tropical cyclone,27,Meteorological,Vietnam,2014-01-01,2014-01-01
+548,13711,Storm,Convective storm,,Meteorological,United States,2014-01-01,2014-01-01
+549,13712,Storm,Convective storm,40,Meteorological,United States,2014-01-01,2014-01-01
+550,13713,Flood,Flash flood,154,Hydrological,Dem. Rep. Congo,2014-01-01,2014-01-01
+551,13714,Storm,Convective storm,2,Meteorological,United States,2014-01-01,2014-01-01
+552,13715,Earthquake,Ground movement,1,Geophysical,United States,2014-01-01,2014-01-01
+553,13716,Flood,Flash flood,,Hydrological,United States,2014-01-01,2014-01-01
+554,13722,Storm,Convective storm,,Meteorological,United States,2014-01-01,2014-01-01
+555,13723,Storm,Convective storm,2,Meteorological,United States,2014-01-01,2014-01-01
+556,13724,Storm,Convective storm,9,Meteorological,United States,2014-01-01,2014-01-01
+557,13725,Storm,Convective storm,25,Meteorological,United States,2014-01-01,2014-01-01
+558,13734,Storm,Convective storm,16,Meteorological,United States,2014-01-01,2014-01-01
+559,13735,Storm,Convective storm,13,Meteorological,United States,2014-01-01,2014-01-01
+560,13736,Storm,Convective storm,12,Meteorological,United States,2014-01-01,2014-01-01
+561,13737,Storm,Convective storm,13,Meteorological,United States,2014-01-01,2014-01-01
+562,13738,Flood,Riverine flood,2,Hydrological,United States,2014-01-01,2014-01-01
+563,13739,Landslide,Landslide,43,Hydrological,United States,2014-01-01,2014-01-01
+564,13740,Storm,Tropical cyclone,1,Meteorological,United States,2014-01-01,2014-01-01
+565,13741,Extreme temperature,Cold wave,21,Meteorological,United States,2014-01-01,2014-01-01
+566,13742,Wildfire,Forest fire,2,Climatological,United States,2014-01-01,2014-01-01
+567,13743,Drought,Drought,,Climatological,United States,2014-01-01,2014-01-01
+568,13744,Storm,Tropical cyclone,11,Meteorological,Vietnam,2014-01-01,2014-01-01
+569,13745,Storm,Tropical cyclone,,Meteorological,Vietnam,2014-01-01,2014-01-01
+570,13747,Landslide,Landslide,11,Hydrological,Dem. Rep. Congo,2014-01-01,2014-01-01
+571,13748,Epidemic,Viral disease,49,Biological,Dem. Rep. Congo,2014-01-01,2014-01-01
+572,13757,Storm,Convective storm,4,Meteorological,United States,2015-01-01,2015-01-01
+573,13758,Storm,Convective storm,6,Meteorological,United States,2015-01-01,2015-01-01
+574,13759,Storm,Convective storm,4,Meteorological,United States,2015-01-01,2015-01-01
+575,13760,Storm,Convective storm,1,Meteorological,United States,2015-01-01,2015-01-01
+576,13761,Storm,Convective storm,,Meteorological,United States,2015-01-01,2015-01-01
+577,13762,Storm,Convective storm,3,Meteorological,United States,2015-01-01,2015-01-01
+578,13763,Storm,Convective storm,4,Meteorological,United States,2015-01-01,2015-01-01
+579,13766,Flood,Flash flood,32,Hydrological,Vietnam,2015-01-01,2015-01-01
+580,13767,Flood,,18,Hydrological,Dem. Rep. Congo,2015-01-01,2015-01-01
+581,13768,Wildfire,,4,Climatological,United States,2015-01-01,2015-01-01
+582,13769,Storm,Convective storm,1,Meteorological,United States,2015-01-01,2015-01-01
+583,13770,Storm,Convective storm,4,Meteorological,United States,2015-01-01,2015-01-01
+584,13771,Flood,,31,Hydrological,United States,2015-01-01,2016-01-01
+585,13772,Storm,Convective storm,10,Meteorological,United States,2015-01-01,2015-01-01
+586,13773,Storm,Convective storm,22,Meteorological,United States,2015-01-01,2015-01-01
+587,13778,Storm,Convective storm,50,Meteorological,United States,2015-01-01,2015-01-01
+588,13779,Storm,Convective storm,18,Meteorological,United States,2015-01-01,2015-01-01
+589,13780,Storm,Tropical cyclone,25,Meteorological,United States,2015-01-01,2015-01-01
+590,13785,Storm,Convective storm,2,Meteorological,United States,2015-01-01,2015-01-01
+591,13786,Flood,Flash flood,32,Hydrological,United States,2015-01-01,2015-01-01
+592,13798,Storm,Convective storm,6,Meteorological,United States,2015-01-01,2015-01-01
+593,13799,Storm,Convective storm,15,Meteorological,United States,2015-01-01,2015-01-01
+594,13800,Storm,Convective storm,30,Meteorological,United States,2015-01-01,2015-01-01
+595,13801,Storm,Convective storm,13,Meteorological,United States,2015-01-01,2015-01-01
+596,13802,Flood,Flash flood,16,Hydrological,United States,2015-01-01,2015-01-01
+597,13803,Flood,Flash flood,19,Hydrological,United States,2015-01-01,2015-01-01
+598,13804,Wildfire,"Land fire (Brush, Bush, Pasture)",4,Climatological,United States,2015-01-01,2015-01-01
+599,13805,Wildfire,"Land fire (Brush, Bush, Pasture)",3,Climatological,United States,2015-01-01,2015-01-01
+600,13806,Drought,Drought,,Climatological,United States,2015-01-01,2015-01-01
+601,13807,Wildfire,,1,Climatological,United States,2015-01-01,2015-01-01
+602,13808,Flood,,,Hydrological,United States,2015-01-01,2015-01-01
+603,13810,Storm,Tropical cyclone,7,Meteorological,Vietnam,2015-01-01,2015-01-01
+604,13811,Drought,Drought,,Climatological,Vietnam,2015-01-01,2017-01-01
+605,13812,Flood,,2,Hydrological,Vietnam,2015-01-01,2015-01-01
+606,13816,Earthquake,Ground movement,3,Geophysical,Dem. Rep. Congo,2015-01-01,2015-01-01
+607,13817,Wildfire,"Land fire (Brush, Bush, Pasture)",3,Climatological,Dem. Rep. Congo,2015-01-01,2015-01-01
+608,13818,Flood,,31,Hydrological,Dem. Rep. Congo,2015-01-01,2015-01-01
+609,13819,Flood,,,Hydrological,Dem. Rep. Congo,2015-01-01,2015-01-01
+610,13823,Storm,Convective storm,,Meteorological,United States,2016-01-01,2016-01-01
+611,13824,Storm,Convective storm,25,Meteorological,United States,2016-01-01,2016-01-01
+612,13828,Storm,Convective storm,6,Meteorological,United States,2016-01-01,2016-01-01
+613,13838,Storm,Convective storm,1,Meteorological,United States,2016-01-01,2016-01-01
+614,13839,Storm,Convective storm,2,Meteorological,United States,2016-01-01,2016-01-01
+615,13840,Storm,Convective storm,1,Meteorological,United States,2016-01-01,2016-01-01
+616,13841,Storm,Convective storm,,Meteorological,United States,2016-01-01,2016-01-01
+617,13842,Flood,Flash flood,9,Hydrological,United States,2016-01-01,2016-01-01
+618,13843,Flood,,15,Hydrological,United States,2016-01-01,2016-01-01
+619,13844,Storm,Convective storm,9,Meteorological,United States,2016-01-01,2016-01-01
+620,13845,Storm,Convective storm,7,Meteorological,United States,2016-01-01,2016-01-01
+621,13853,Storm,Convective storm,50,Meteorological,United States,2016-01-01,2016-01-01
+622,13854,Storm,Convective storm,10,Meteorological,United States,2016-01-01,2016-01-01
+623,13864,Wildfire,Forest fire,,Climatological,United States,2016-01-01,2016-01-01
+624,13865,Flood,,11,Hydrological,United States,2016-01-01,2016-01-01
+625,13880,Flood,Riverine flood,106,Hydrological,Bangladesh,2016-01-01,2016-01-01
+626,13884,Flood,,,Hydrological,Canada,2016-01-01,2016-01-01
+627,13924,Landslide,Mudslide,160,Hydrological,Bangladesh,2017-01-01,2017-01-01
+628,13940,Wildfire,,,Climatological,Canada,2017-01-01,2017-01-01
+629,13971,Storm,Convective storm,12,Meteorological,Bangladesh,2017-01-01,2017-01-01
+630,13972,Flood,Riverine flood,,Hydrological,Bangladesh,2017-01-01,2017-01-01
+631,13973,Storm,Tropical cyclone,7,Meteorological,Bangladesh,2017-01-01,2017-01-01
+632,13974,Epidemic,Bacterial disease,15,Biological,Bangladesh,2017-01-01,2017-01-01
+633,13975,Flood,,144,Hydrological,Bangladesh,2017-01-01,2017-01-01
+634,13982,Flood,,2,Hydrological,Canada,2017-01-01,2017-01-01
+635,13983,Flood,,,Hydrological,Canada,2017-01-01,2017-01-01
+636,14033,Flood,,14,Hydrological,Bangladesh,2018-01-01,2018-01-01
+637,14038,Wildfire,Forest fire,,Climatological,Canada,2018-01-01,2018-01-01
+638,14077,Storm,Convective storm,33,Meteorological,Bangladesh,2018-01-01,2018-01-01
+639,14078,Extreme temperature,Cold wave,34,Meteorological,Bangladesh,2018-01-01,2018-01-01
+640,14079,Flood,,21,Hydrological,Bangladesh,2018-01-01,2018-01-01
+641,14087,Storm,Convective storm,,Meteorological,Canada,2018-01-01,2018-01-01
+642,14088,Extreme temperature,Heat wave,70,Meteorological,Canada,2018-01-01,2018-01-01
+643,14089,Flood,,,Hydrological,Canada,2018-01-01,2018-01-01
+644,14140,Flood,,1,Hydrological,Canada,2019-01-01,2019-01-01
+645,14156,Storm,Convective storm,15,Meteorological,Bangladesh,2019-01-01,2019-01-01
+646,14157,Storm,Tropical cyclone,39,Meteorological,Bangladesh,2019-01-01,2019-01-01
+647,14182,Storm,Tropical cyclone,54,Meteorological,Mexico,2016-01-01,2016-01-01
+648,14183,Flood,Flash flood,2,Hydrological,Mexico,2016-01-01,2016-01-01
+649,14192,Flood,,3,Hydrological,Mexico,2016-01-01,2016-01-01
+650,14194,Flood,Flash flood,138,Hydrological,Nepal,2016-01-01,2016-01-01
+651,14207,Storm,Tropical cyclone,11,Meteorological,Mexico,2016-01-01,2016-01-01
+652,14237,Flood,,,Hydrological,Liberia,2016-01-01,2016-01-01
+653,14239,Flood,Flash flood,5,Hydrological,Mexico,2016-01-01,2016-01-01
+654,14240,Flood,Flash flood,2,Hydrological,Mexico,2016-01-01,2016-01-01
+655,14241,Flood,,13,Hydrological,Mexico,2016-01-01,2016-01-01
+656,14258,Flood,,25,Hydrological,Nepal,2016-01-01,2016-01-01
+657,14277,Earthquake,Ground movement,98,Geophysical,Mexico,2017-01-01,2017-01-01
+658,14285,Storm,Tropical cyclone,6,Meteorological,Mexico,2017-01-01,2017-01-01
+659,14286,Storm,Tropical cyclone,,Meteorological,Mexico,2017-01-01,2017-01-01
+660,14297,Storm,Tropical cyclone,3,Meteorological,Mexico,2017-01-01,2017-01-01
+661,14304,Earthquake,Ground movement,369,Geophysical,Mexico,2017-01-01,2017-01-01
+662,14316,Flood,,11,Hydrological,Nepal,2017-01-01,2017-01-01
+663,14317,Flood,,176,Hydrological,Nepal,2017-01-01,2017-01-01
+664,14334,Storm,Tropical cyclone,20,Meteorological,Mexico,2017-01-01,2017-01-01
+665,14337,Landslide,Landslide,11,Hydrological,Nepal,2017-01-01,2017-01-01
+666,14401,Flood,Riverine flood,2,Hydrological,Mexico,2017-01-01,2017-01-01
+667,14486,Storm,Tropical cyclone,14,Meteorological,Mexico,2018-01-01,2018-01-01
+668,14487,Storm,Tropical cyclone,,Meteorological,Mauritius,2018-01-01,2018-01-01
+669,14545,Earthquake,Ground movement,,Geophysical,Mexico,2018-01-01,2018-01-01
+670,14546,Flood,Flash flood,20,Hydrological,Mexico,2018-01-01,2018-01-01
+671,14547,Storm,Tropical cyclone,6,Meteorological,Mexico,2018-01-01,2018-01-01
+672,14572,Flood,Flash flood,15,Hydrological,Nepal,2018-01-01,2018-01-01
+673,14573,Extreme temperature,Cold wave,50,Meteorological,Nepal,2018-01-01,2018-01-01
+674,14640,Storm,Convective storm,28,Meteorological,Nepal,2019-01-01,2019-01-01
+675,14706,Storm,Tropical cyclone,11,Meteorological,Vietnam,2015-01-01,2015-01-01
+676,14708,Storm,Tropical cyclone,11,Meteorological,Vietnam,2016-01-01,2016-01-01
+677,14709,Storm,Tropical cyclone,3,Meteorological,United States,2016-01-01,2016-01-01
+678,14711,Flood,Riverine flood,1,Hydrological,United States,2016-01-01,2016-01-01
+679,14713,Flood,,8,Hydrological,Vietnam,2016-01-01,2016-01-01
+680,14715,Storm,Convective storm,8,Meteorological,United States,2016-01-01,2016-01-01
+681,14717,Flood,Flash flood,,Hydrological,Dem. Rep. Congo,2016-01-01,2016-01-01
+682,14718,Storm,Convective storm,22,Meteorological,United States,2016-01-01,2016-01-01
+683,14721,Storm,Tropical cyclone,49,Meteorological,United States,2016-01-01,2016-01-01
+684,14722,Storm,Tropical cyclone,34,Meteorological,Vietnam,2016-01-01,2016-01-01
+685,14723,Storm,,25,Meteorological,Vietnam,2016-01-01,2016-01-01
+686,14742,Storm,Convective storm,6,Meteorological,United States,2016-01-01,2017-01-01
+687,14743,Earthquake,Ground movement,,Geophysical,United States,2016-01-01,2016-01-01
+688,14744,Wildfire,Forest fire,2,Climatological,United States,2016-01-01,2016-01-01
+689,14745,Wildfire,Forest fire,,Climatological,United States,2016-01-01,2016-01-01
+690,14746,Wildfire,Forest fire,14,Climatological,United States,2016-01-01,2016-01-01
+691,14747,Flood,,13,Hydrological,United States,2016-01-01,2016-01-01
+692,14748,Flood,,5,Hydrological,United States,2016-01-01,2016-01-01
+693,14751,Flood,Riverine flood,35,Hydrological,Vietnam,2016-01-01,2016-01-01
+694,14752,Storm,Tropical cyclone,1,Meteorological,Vietnam,2016-01-01,2016-01-01
+695,14753,Epidemic,Viral disease,27,Biological,Vietnam,2016-01-01,2016-01-01
+696,14754,Flood,,27,Hydrological,Vietnam,2016-01-01,2016-01-01
+697,14755,Flood,,21,Hydrological,Vietnam,2016-01-01,2016-01-01
+698,14760,Flood,Flash flood,50,Hydrological,Dem. Rep. Congo,2016-01-01,2016-01-01
+699,14761,Epidemic,Viral disease,,Biological,Dem. Rep. Congo,2016-01-01,2016-01-01
+700,14762,Epidemic,Viral disease,55,Biological,Dem. Rep. Congo,2016-01-01,2016-01-01
+701,14768,Storm,Convective storm,3,Meteorological,United States,2017-01-01,2017-01-01
+702,14770,Flood,,20,Hydrological,United States,2017-01-01,2017-01-01
+703,14771,Storm,Convective storm,,Meteorological,United States,2017-01-01,2017-01-01
+704,14773,Storm,Convective storm,22,Meteorological,United States,2017-01-01,2018-01-01
+705,14775,Storm,Convective storm,5,Meteorological,United States,2017-01-01,2017-01-01
+706,14778,Storm,Convective storm,,Meteorological,United States,2017-01-01,2017-01-01
+707,14779,Storm,Convective storm,1,Meteorological,United States,2017-01-01,2017-01-01
+708,14780,Storm,Tropical cyclone,88,Meteorological,United States,2017-01-01,2017-01-01
+709,14781,Storm,Convective storm,4,Meteorological,United States,2017-01-01,2017-01-01
+710,14786,Flood,Flash flood,39,Hydrological,Vietnam,2017-01-01,2017-01-01
+711,14787,Flood,,1,Hydrological,Vietnam,2017-01-01,2017-01-01
+712,14788,Flood,,14,Hydrological,Vietnam,2017-01-01,2017-01-01
+713,14789,Flood,,75,Hydrological,Vietnam,2017-01-01,2017-01-01
+714,14793,Storm,Convective storm,,Meteorological,United States,2017-01-01,2017-01-01
+715,14794,Storm,Convective storm,2,Meteorological,United States,2017-01-01,2017-01-01
+716,14795,Storm,Convective storm,,Meteorological,United States,2017-01-01,2017-01-01
+717,14796,Storm,Convective storm,,Meteorological,United States,2017-01-01,2017-01-01
+718,14802,Storm,Tropical cyclone,97,Meteorological,United States,2017-01-01,2017-01-01
+719,14804,Storm,Tropical cyclone,123,Meteorological,Vietnam,2017-01-01,2017-01-01
+720,14827,Storm,Convective storm,11,Meteorological,United States,2017-01-01,2017-01-01
+721,14828,Storm,Convective storm,24,Meteorological,United States,2017-01-01,2017-01-01
+722,14829,Flood,Flash flood,10,Hydrological,United States,2017-01-01,2017-01-01
+723,14830,Flood,Riverine flood,,Hydrological,United States,2017-01-01,2017-01-01
+724,14831,Storm,Tropical cyclone,4,Meteorological,United States,2017-01-01,2017-01-01
+725,14832,Storm,Tropical cyclone,,Meteorological,United States,2017-01-01,2017-01-01
+726,14833,Wildfire,Forest fire,,Climatological,United States,2017-01-01,2017-01-01
+727,14834,Wildfire,"Land fire (Brush, Bush, Pasture)",43,Climatological,United States,2017-01-01,2017-01-01
+728,14835,Drought,Drought,,Climatological,United States,2017-01-01,2017-01-01
+729,14836,Wildfire,,2,Climatological,United States,2017-01-01,2017-01-01
+730,14839,Storm,Tropical cyclone,9,Meteorological,Vietnam,2017-01-01,2017-01-01
+731,14840,Storm,Tropical cyclone,1,Meteorological,Vietnam,2017-01-01,2017-01-01
+732,14841,Storm,Tropical cyclone,14,Meteorological,Vietnam,2017-01-01,2017-01-01
+733,14842,Flood,,8,Hydrological,Vietnam,2017-01-01,2017-01-01
+734,14851,Landslide,Landslide,174,Hydrological,Dem. Rep. Congo,2017-01-01,2017-01-01
+735,14852,Epidemic,Bacterial disease,43,Biological,Dem. Rep. Congo,2017-01-01,2018-01-01
+736,14853,Flood,,105,Hydrological,Dem. Rep. Congo,2017-01-01,2017-01-01
+737,14858,Storm,Tropical cyclone,34,Meteorological,Vietnam,2018-01-01,2018-01-01
+738,14859,Storm,Tropical cyclone,13,Meteorological,Vietnam,2018-01-01,2018-01-01
+739,14860,Flood,,51,Hydrological,Dem. Rep. Congo,2018-01-01,2018-01-01
+740,14861,Storm,Convective storm,9,Meteorological,United States,2018-01-01,2018-01-01
+741,14867,Flood,,,Hydrological,United States,2018-01-01,2018-01-01
+742,14868,Flood,Flash flood,33,Hydrological,Vietnam,2018-01-01,2018-01-01
+743,14869,Flood,,20,Hydrological,Vietnam,2018-01-01,2018-01-01
+744,14870,Volcanic activity,Lava flow,,Geophysical,United States,2018-01-01,2018-01-01
+745,14872,Wildfire,Forest fire,14,Climatological,United States,2018-01-01,2018-01-01
+746,14873,Storm,Convective storm,,Meteorological,United States,2018-01-01,2018-01-01
+747,14874,Storm,,3,Meteorological,United States,2018-01-01,2018-01-01
+748,14876,Flood,Riverine flood,5,Hydrological,United States,2018-01-01,2018-01-01
+749,14877,Storm,Convective storm,22,Meteorological,United States,2018-01-01,2018-01-01
+750,14885,Storm,Convective storm,2,Meteorological,United States,2018-01-01,2018-01-01
+751,14886,Storm,Tropical cyclone,53,Meteorological,United States,2018-01-01,2018-01-01
+752,14887,Landslide,Mudslide,21,Hydrological,United States,2018-01-01,2018-01-01
+753,14888,Storm,Tropical cyclone,1,Meteorological,Vietnam,2018-01-01,2018-01-01
+754,14892,Storm,Tropical cyclone,49,Meteorological,United States,2018-01-01,2018-01-01
+755,14894,Storm,Convective storm,,Meteorological,United States,2018-01-01,2018-01-01
+756,14912,Storm,Convective storm,10,Meteorological,United States,2018-01-01,2018-01-01
+757,14913,Flood,Flash flood,2,Hydrological,United States,2018-01-01,2018-01-01
+758,14914,Storm,Convective storm,5,Meteorological,United States,2018-01-01,2018-01-01
+759,14915,Storm,Tropical cyclone,5,Meteorological,United States,2018-01-01,2018-01-01
+760,14916,Wildfire,Forest fire,88,Climatological,United States,2018-01-01,2018-01-01
+761,14917,Drought,Drought,,Climatological,United States,2018-01-01,2018-01-01
+762,14918,Wildfire,,2,Climatological,United States,2018-01-01,2018-01-01
+763,14921,Flood,Flash flood,14,Hydrological,Vietnam,2018-01-01,2018-01-01
+764,14922,Storm,Tropical cyclone,19,Meteorological,Vietnam,2018-01-01,2018-01-01
+765,14924,Epidemic,Viral disease,33,Biological,Dem. Rep. Congo,2018-01-01,2018-01-01
+766,14925,Epidemic,Viral disease,2287,Biological,Dem. Rep. Congo,2018-01-01,2019-01-01
+767,14928,Flood,,1,Hydrological,United States,2019-01-01,2019-01-01
+768,14931,Storm,Convective storm,2,Meteorological,United States,2019-01-01,2019-01-01
+769,14932,Flood,,114,Hydrological,Bangladesh,2019-01-01,2019-01-01
+770,14933,Storm,Convective storm,10,Meteorological,United States,2019-01-01,2019-01-01
+771,14934,Flood,,1,Hydrological,United States,2019-01-01,2019-01-01
+772,14944,Storm,Convective storm,8,Meteorological,United States,2019-01-01,2019-01-01
+773,14945,Flood,Riverine flood,5,Hydrological,United States,2019-01-01,2019-01-01
+774,14948,Storm,Convective storm,22,Meteorological,United States,2019-01-01,2019-01-01
+775,14949,Storm,Convective storm,5,Meteorological,United States,2019-01-01,2019-01-01
+776,14951,Storm,Convective storm,1,Meteorological,Canada,2019-01-01,2019-01-01
+777,14955,Storm,Convective storm,13,Meteorological,United States,2019-01-01,2019-01-01
+778,14964,Storm,Convective storm,28,Meteorological,United States,2019-01-01,2019-01-01
+779,14967,Landslide,Landslide,13,Hydrological,Dem. Rep. Congo,2019-01-01,2019-01-01
+780,14987,Landslide,Landslide,2,Hydrological,Bangladesh,2019-01-01,2019-01-01
+781,14988,Storm,Tropical cyclone,40,Meteorological,Bangladesh,2019-01-01,2019-01-01
+782,14989,Extreme temperature,Cold wave,50,Meteorological,Bangladesh,2019-01-01,2019-01-01
+783,15033,Flood,,257,Hydrological,Bangladesh,2020-01-01,2020-01-01
+784,15043,Storm,Convective storm,,Meteorological,Canada,2020-01-01,2020-01-01
+785,15075,Storm,Tropical cyclone,26,Meteorological,Bangladesh,2020-01-01,2020-01-01
+786,15079,Flood,Riverine flood,1,Hydrological,Canada,2020-01-01,2020-01-01
+787,15107,Flood,,21,Hydrological,Bangladesh,2021-01-01,2021-01-01
+788,15113,Flood,,4,Hydrological,Canada,2021-01-01,2021-01-01
+789,15131,Wildfire,,2,Climatological,Canada,2021-01-01,2021-01-01
+790,15134,Extreme temperature,Heat wave,808,Meteorological,Canada,2021-01-01,2021-01-01
+791,15160,Storm,Tropical cyclone,3,Meteorological,Bangladesh,2021-01-01,2021-01-01
+792,15176,Storm,Convective storm,1,Meteorological,Canada,2021-01-01,2021-01-01
+793,15286,Flood,,7,Hydrological,Mexico,2019-01-01,2019-01-01
+794,15306,Flood,,119,Hydrological,Nepal,2019-01-01,2019-01-01
+795,15322,Storm,Tropical cyclone,1,Meteorological,Mexico,2019-01-01,2019-01-01
+796,15323,Storm,Tropical cyclone,1,Meteorological,Mexico,2019-01-01,2019-01-01
+797,15396,Storm,Tropical cyclone,2,Meteorological,Mexico,2019-01-01,2019-01-01
+798,15397,Flood,,2,Hydrological,Mexico,2019-01-01,2019-01-01
+799,15398,Flood,,3,Hydrological,Mexico,2019-01-01,2019-01-01
+800,15468,Storm,Tropical cyclone,,Meteorological,Mexico,2020-01-01,2020-01-01
+801,15469,Flood,,3,Hydrological,Mexico,2020-01-01,2020-01-01
+802,15470,Flood,,27,Hydrological,Mexico,2020-01-01,2020-01-01
+803,15472,Flood,,448,Hydrological,Nepal,2020-01-01,2020-01-01
+804,15490,Storm,Tropical cyclone,5,Meteorological,Mexico,2020-01-01,2020-01-01
+805,15584,Earthquake,Ground movement,10,Geophysical,Mexico,2020-01-01,2020-01-01
+806,15585,Storm,Tropical cyclone,6,Meteorological,Mexico,2020-01-01,2020-01-01
+807,15586,Storm,Tropical cyclone,31,Meteorological,Mexico,2020-01-01,2020-01-01
+808,15587,Storm,Tropical cyclone,,Meteorological,Mexico,2020-01-01,2020-01-01
+809,15627,Storm,Tropical cyclone,2,Meteorological,Mexico,2021-01-01,2021-01-01
+810,15628,Storm,Tropical cyclone,13,Meteorological,Mexico,2021-01-01,2021-01-01
+811,15629,Storm,Tropical cyclone,2,Meteorological,Mexico,2021-01-01,2021-01-01
+812,15631,Storm,Tropical cyclone,3,Meteorological,Mexico,2021-01-01,2021-01-01
+813,15632,Flood,,13,Hydrological,Nepal,2021-01-01,2021-01-01
+814,15636,Storm,Convective storm,6,Meteorological,Mexico,2021-01-01,2021-01-01
+815,15674,Flood,Flash flood,46,Hydrological,Nepal,2021-01-01,2021-01-01
+816,15675,Flood,,74,Hydrological,Nepal,2021-01-01,2021-01-01
+817,15676,Flood,,118,Hydrological,Nepal,2021-01-01,2021-01-01
+818,15688,Earthquake,Ground movement,3,Geophysical,Mexico,2021-01-01,2021-01-01
+819,15702,Storm,Tropical cyclone,,Meteorological,Mexico,2021-01-01,2021-01-01
+820,15787,Storm,Convective storm,12,Meteorological,Mexico,2021-01-01,2021-01-01
+821,15788,Flood,Flash flood,19,Hydrological,Mexico,2021-01-01,2021-01-01
+822,15789,Flood,Flash flood,5,Hydrological,Mexico,2021-01-01,2021-01-01
+823,15790,Flood,,6,Hydrological,Mexico,2021-01-01,2021-01-01
+824,15883,Storm,Tropical cyclone,1,Meteorological,Vietnam,2019-01-01,2019-01-01
+825,15893,Flood,Flash flood,27,Hydrological,Vietnam,2019-01-01,2019-01-01
+826,15894,Flood,,3,Hydrological,Vietnam,2019-01-01,2019-01-01
+827,15895,Flood,,3,Hydrological,Vietnam,2019-01-01,2019-01-01
+828,15898,Storm,Convective storm,3,Meteorological,United States,2019-01-01,2019-01-01
+829,15899,Storm,Convective storm,18,Meteorological,United States,2019-01-01,2019-01-01
+830,15900,Storm,Convective storm,10,Meteorological,United States,2019-01-01,2019-01-01
+831,15902,Storm,Tropical cyclone,10,Meteorological,United States,2019-01-01,2019-01-01
+832,15903,Storm,Tropical cyclone,5,Meteorological,United States,2019-01-01,2019-01-01
+833,15904,Storm,Tropical cyclone,3,Meteorological,Vietnam,2019-01-01,2019-01-01
+834,15953,Storm,Convective storm,4,Meteorological,United States,2019-01-01,2019-01-01
+835,15954,Earthquake,Ground movement,,Geophysical,United States,2019-01-01,2019-01-01
+836,15955,Storm,Tropical cyclone,1,Meteorological,United States,2019-01-01,2019-01-01
+837,15956,Wildfire,Forest fire,3,Climatological,United States,2019-01-01,2019-01-01
+838,15957,Wildfire,Forest fire,,Climatological,United States,2019-01-01,2019-01-01
+839,15958,Flood,,3,Hydrological,United States,2019-01-01,2019-01-01
+840,15960,Drought,Drought,,Climatological,Vietnam,2019-01-01,2020-01-01
+841,15961,Flood,,12,Hydrological,Vietnam,2019-01-01,2019-01-01
+842,15962,Flood,,10,Hydrological,Vietnam,2019-01-01,2019-01-01
+843,15970,Flood,Riverine flood,43,Hydrological,Dem. Rep. Congo,2019-01-01,2019-01-01
+844,15971,Landslide,Landslide,24,Hydrological,Dem. Rep. Congo,2019-01-01,2019-01-01
+845,15972,Epidemic,Bacterial disease,472,Biological,Dem. Rep. Congo,2019-01-01,2019-01-01
+846,15973,Epidemic,Viral disease,3667,Biological,Dem. Rep. Congo,2019-01-01,2019-01-01
+847,15978,Storm,Convective storm,2,Meteorological,United States,2020-01-01,2020-01-01
+848,15981,Storm,Convective storm,11,Meteorological,United States,2020-01-01,2020-01-01
+849,15983,Storm,Extra-tropical storm,5,Meteorological,Vietnam,2020-01-01,2020-01-01
+850,15986,Storm,Tropical cyclone,12,Meteorological,United States,2020-01-01,2020-01-01
+851,15999,Flood,Flash flood,5,Hydrological,Vietnam,2020-01-01,2020-01-01
+852,16000,Storm,Tropical cyclone,41,Meteorological,Vietnam,2020-01-01,2020-01-01
+853,16001,Flood,,18,Hydrological,Dem. Rep. Congo,2020-01-01,2020-01-01
+854,16004,Flood,,1,Hydrological,United States,2020-01-01,2020-01-01
+855,16006,Storm,Convective storm,,Meteorological,United States,2020-01-01,2020-01-01
+856,16007,Storm,Convective storm,2,Meteorological,United States,2020-01-01,2020-01-01
+857,16011,Drought,Drought,45,Climatological,United States,2020-01-01,2020-01-01
+858,16014,Storm,Convective storm,38,Meteorological,United States,2020-01-01,2020-01-01
+859,16015,Storm,Convective storm,3,Meteorological,United States,2020-01-01,2020-01-01
+860,16016,Storm,Convective storm,10,Meteorological,United States,2020-01-01,2020-01-01
+861,16017,Storm,Tropical cyclone,,Meteorological,United States,2020-01-01,2020-01-01
+862,16018,Storm,Tropical cyclone,4,Meteorological,United States,2020-01-01,2020-01-01
+863,16019,Storm,Tropical cyclone,8,Meteorological,United States,2020-01-01,2020-01-01
+864,16020,Storm,Convective storm,3,Meteorological,Vietnam,2020-01-01,2020-01-01
+865,16021,Storm,Tropical cyclone,243,Meteorological,Vietnam,2020-01-01,2020-01-01
+866,16022,Storm,Tropical cyclone,,Meteorological,Vietnam,2020-01-01,2020-01-01
+867,16023,Storm,Tropical cyclone,2,Meteorological,Vietnam,2020-01-01,2020-01-01
+868,16024,Storm,Tropical cyclone,6,Meteorological,United States,2020-01-01,2020-01-01
+869,16026,Storm,Tropical cyclone,33,Meteorological,United States,2020-01-01,2020-01-01
+870,16079,Storm,Convective storm,4,Meteorological,United States,2020-01-01,2020-01-01
+871,16080,Storm,Convective storm,,Meteorological,United States,2020-01-01,2020-01-01
+872,16081,Storm,Convective storm,25,Meteorological,United States,2020-01-01,2020-01-01
+873,16082,Storm,Convective storm,,Meteorological,United States,2020-01-01,2020-01-01
+874,16083,Flood,Riverine flood,,Hydrological,United States,2020-01-01,2020-01-01
+875,16084,Storm,Tropical cyclone,1,Meteorological,United States,2020-01-01,2020-01-01
+876,16085,Storm,Tropical cyclone,16,Meteorological,United States,2020-01-01,2020-01-01
+877,16086,Wildfire,Forest fire,32,Climatological,United States,2020-01-01,2020-01-01
+878,16089,Storm,Tropical cyclone,2,Meteorological,Vietnam,2020-01-01,2020-01-01
+879,16090,Storm,Tropical cyclone,2,Meteorological,Vietnam,2020-01-01,2020-01-01
+880,16091,Storm,Tropical cyclone,6,Meteorological,Vietnam,2020-01-01,2020-01-01
+881,16092,Storm,Tropical cyclone,1,Meteorological,Vietnam,2020-01-01,2020-01-01
+882,16099,Flood,Riverine flood,13,Hydrological,Dem. Rep. Congo,2020-01-01,2020-01-01
+883,16100,Epidemic,Viral disease,55,Biological,Dem. Rep. Congo,2020-01-01,2020-01-01
+884,16101,Flood,,,Hydrological,Dem. Rep. Congo,2020-01-01,2020-01-01
+885,16102,Flood,,,Hydrological,Dem. Rep. Congo,2020-01-01,2020-01-01
+886,16103,Flood,,,Hydrological,Dem. Rep. Congo,2020-01-01,2020-01-01
+887,16104,Flood,,52,Hydrological,Dem. Rep. Congo,2020-01-01,2020-01-01
+888,16113,Storm,Convective storm,3,Meteorological,United States,2021-01-01,2021-01-01
+889,16114,Storm,Convective storm,2,Meteorological,United States,2021-01-01,2021-01-01
+890,16115,Storm,Tropical cyclone,,Meteorological,Vietnam,2021-01-01,2021-01-01
+891,16117,Storm,Convective storm,4,Meteorological,United States,2021-01-01,2021-01-01
+892,16118,Storm,Convective storm,,Meteorological,United States,2021-01-01,2021-01-01
+893,16119,Storm,Convective storm,1,Meteorological,United States,2021-01-01,2021-01-01
+894,16122,Storm,Convective storm,1,Meteorological,United States,2021-01-01,2021-01-01
+895,16123,Storm,Convective storm,14,Meteorological,United States,2021-01-01,2021-01-01
+896,16134,Flood,Riverine flood,1,Hydrological,United States,2021-01-01,2021-01-01
+897,16135,Flood,,8,Hydrological,United States,2021-01-01,2021-01-01
+898,16137,Flood,,18,Hydrological,Vietnam,2021-01-01,2021-01-01
+899,16140,Volcanic activity,Lava flow,32,Geophysical,Dem. Rep. Congo,2021-01-01,2021-01-01
+900,16143,Storm,Convective storm,3,Meteorological,United States,2021-01-01,2021-01-01
+901,16144,Storm,Convective storm,,Meteorological,United States,2021-01-01,2021-01-01
+902,16147,Flood,Flash flood,9,Hydrological,United States,2021-01-01,2021-01-01
+903,16148,Flood,,,Hydrological,United States,2021-01-01,2021-01-01
+904,16151,Storm,Convective storm,235,Meteorological,United States,2021-01-01,2021-01-01
+905,16156,Storm,Convective storm,6,Meteorological,United States,2021-01-01,2021-01-01
+906,16157,Storm,Convective storm,6,Meteorological,United States,2021-01-01,2021-01-01
+907,16158,Storm,Tropical cyclone,1,Meteorological,United States,2021-01-01,2021-01-01
+908,16159,Storm,Tropical cyclone,,Meteorological,United States,2021-01-01,2021-01-01
+909,16160,Storm,Tropical cyclone,7,Meteorological,United States,2021-01-01,2021-01-01
+910,16161,Storm,Tropical cyclone,96,Meteorological,United States,2021-01-01,2021-01-01
+911,16162,Storm,Tropical cyclone,,Meteorological,United States,2021-01-01,2021-01-01
+912,16163,Storm,Tropical cyclone,1,Meteorological,Vietnam,2021-01-01,2021-01-01
+913,16173,Storm,Convective storm,13,Meteorological,United States,2021-01-01,2021-01-01
+914,16176,Flood,,3,Hydrological,United States,2021-01-01,2021-01-01
+915,16210,Storm,Convective storm,,Meteorological,United States,2021-01-01,2021-01-01
+916,16211,Storm,Convective storm,,Meteorological,United States,2021-01-01,2021-01-01
+917,16212,Storm,Convective storm,93,Meteorological,United States,2021-01-01,2021-01-01
+918,16213,Storm,Convective storm,4,Meteorological,United States,2021-01-01,2021-01-01
+919,16214,Storm,Convective storm,5,Meteorological,United States,2021-01-01,2021-01-01
+920,16215,Flood,Flash flood,,Hydrological,United States,2021-01-01,2021-01-01
+921,16216,Flood,Flash flood,22,Hydrological,United States,2021-01-01,2021-01-01
+922,16217,Flood,Flash flood,1,Hydrological,United States,2021-01-01,2021-01-01
+923,16218,Flood,Flash flood,4,Hydrological,United States,2021-01-01,2021-01-01
+924,16219,Extreme temperature,Heat wave,229,Meteorological,United States,2021-01-01,2021-01-01
+925,16220,Wildfire,Forest fire,3,Climatological,United States,2021-01-01,2021-01-01
+926,16221,Wildfire,Forest fire,,Climatological,United States,2021-01-01,2021-01-01
+927,16222,Drought,Drought,,Climatological,United States,2021-01-01,2021-01-01
+928,16223,Flood,,1,Hydrological,United States,2021-01-01,2021-01-01
+929,16224,Flood,,8,Hydrological,United States,2021-01-01,2021-01-01
+930,16225,Wildfire,,,Climatological,United States,2021-01-01,2021-01-01
+931,16226,Wildfire,,,Climatological,United States,2021-01-01,2021-01-01
+932,16227,Wildfire,,,Climatological,United States,2021-01-01,2021-01-01
+933,16228,Flood,,1,Hydrological,United States,2021-01-01,2021-01-01
+934,16229,Wildfire,,2,Climatological,United States,2021-01-01,2022-01-01
+935,16234,Storm,Convective storm,,Meteorological,Vietnam,2021-01-01,2021-01-01
+936,16235,Flood,Flash flood,3,Hydrological,Vietnam,2021-01-01,2021-01-01
+937,16236,Storm,Tropical cyclone,2,Meteorological,Vietnam,2021-01-01,2021-01-01
+938,16237,Storm,Tropical cyclone,3,Meteorological,Vietnam,2021-01-01,2021-01-01
+939,16241,Epidemic,Viral disease,131,Biological,Dem. Rep. Congo,2021-01-01,2021-01-01
